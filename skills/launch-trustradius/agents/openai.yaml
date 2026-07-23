@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on TrustRadius"
+  short_description: "Build and grow a complete TrustRadius profile"
+  default_prompt: "Use $launch-trustradius to claim my product, benchmark five live profiles, complete every field, and build an authentic review program."
