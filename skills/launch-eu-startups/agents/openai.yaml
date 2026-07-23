@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on EU-Startups"
+  short_description: "Prepare a Europe-focused EU-Startups opportunity package."
+  default_prompt: "Use $launch-eu-startups to prepare my EU-Startups editorial, database, or sponsorship package."
