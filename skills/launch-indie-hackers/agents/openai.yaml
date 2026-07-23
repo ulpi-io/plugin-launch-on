@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Indie Hackers"
+  short_description: "Build a credible Indie Hackers product and founder-community launch."
+  default_prompt: "Use $launch-indie-hackers to prepare my Indie Hackers product profile and community launch."
