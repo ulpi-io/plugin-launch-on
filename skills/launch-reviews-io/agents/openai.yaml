@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Reviews.io"
+  short_description: "Operate authentic review collection and trust signals."
+  default_prompt: "Use $launch-reviews-io to prepare my Reviews.io review program."
