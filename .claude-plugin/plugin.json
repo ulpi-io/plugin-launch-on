@@ -1,7 +1,7 @@
 {
   "name": "launch-on",
   "version": "1.0.0",
-  "description": "Product listing and launch workflows for G2, Capterra, GetApp, Software Advice, AlternativeTo, Trustpilot, SourceForge, TrustRadius, Gartner Peer Insights, PeerSpot, StackShare, SaaSHub, SaaSworthy, Crozdesk, SoftwareWorld, SoftwareSuggest, GoodFirms, Wellfound, Indie Hackers, F6S, BetaList, Slashdot, Clutch, Product Hunt, Hacker News, X, and LinkedIn, with shared copy, outreach, and analytics skills.",
+  "description": "Product listing and launch workflows for G2, Capterra, GetApp, Software Advice, AlternativeTo, Trustpilot, SourceForge, TrustRadius, Gartner Peer Insights, PeerSpot, StackShare, SaaSHub, SaaSworthy, Crozdesk, SoftwareWorld, SoftwareSuggest, GoodFirms, Wellfound, Indie Hackers, F6S, BetaList, Slashdot, Clutch, Appvizer, Product Hunt, Hacker News, X, and LinkedIn, with shared copy, outreach, and analytics skills.",
   "author": {
     "name": "ulpi.io",
     "url": "https://github.com/ulpi-io"
@@ -9,6 +9,6 @@
   "homepage": "https://github.com/ulpi-io/plugin-launch-on",
   "repository": "https://github.com/ulpi-io/plugin-launch-on",
   "license": "MIT",
-  "keywords": ["launch", "g2", "capterra", "alternativeto", "trustpilot", "sourceforge", "trustradius", "gartner-peer-insights", "peerspot", "indie-hackers", "f6s", "betalist", "slashdot", "clutch", "open-source", "product-hunt", "hacker-news", "linkedin", "x", "marketing", "analytics", "claude", "codex"],
+  "keywords": ["launch", "g2", "capterra", "alternativeto", "trustpilot", "sourceforge", "trustradius", "gartner-peer-insights", "peerspot", "indie-hackers", "f6s", "betalist", "slashdot", "clutch", "appvizer", "open-source", "product-hunt", "hacker-news", "linkedin", "x", "marketing", "analytics", "claude", "codex"],
   "skills": "./skills"
 }

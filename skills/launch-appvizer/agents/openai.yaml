@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Appvizer"
+  short_description: "Build a buyer-ready Appvizer software profile."
+  default_prompt: "Use $launch-appvizer to prepare my Appvizer software listing."
