@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Tekpon"
+  short_description: "Build a buyer-ready Tekpon software marketplace listing."
+  default_prompt: "Use $launch-tekpon to prepare my Tekpon software listing."
