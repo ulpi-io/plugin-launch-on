@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on StartupBlink"
+  short_description: "Build an eligible, source-governed StartupBlink ecosystem profile."
+  default_prompt: "Use $launch-startupblink to prepare my StartupBlink company profile."
