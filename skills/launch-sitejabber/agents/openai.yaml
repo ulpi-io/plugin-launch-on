@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on SmartCustomer"
+  short_description: "Claim a profile and govern authentic reviews."
+  default_prompt: "Use $launch-sitejabber to prepare my SmartCustomer business profile."
