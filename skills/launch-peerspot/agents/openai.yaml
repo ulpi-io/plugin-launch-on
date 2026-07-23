@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on PeerSpot"
+  short_description: "Build an enterprise PeerSpot product presence"
+  default_prompt: "Use $launch-peerspot to request my product listing, benchmark five live peers, prepare every field, and build an authentic review program."
