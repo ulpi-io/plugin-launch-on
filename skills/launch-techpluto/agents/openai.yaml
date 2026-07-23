@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on TechPluto"
+  short_description: "Prepare a source-led TechPluto editorial pitch."
+  default_prompt: "Use $launch-techpluto to prepare my TechPluto startup or technology-news pitch."
