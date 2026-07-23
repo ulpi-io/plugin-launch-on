@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch a LinkedIn Product Page"
+  short_description: "Create an eligible LinkedIn Product Page with truthful buyer data."
+  default_prompt: "Use $launch-linkedin-product-page to prepare my LinkedIn Product Page."

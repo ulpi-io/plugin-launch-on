@@ -1,6 +1,6 @@
 # launch-on v1.0.0
 
-`launch-on` gives Claude Code and Codex the same thirty-three workflows for preparing and running grounded,
+`launch-on` gives Claude Code and Codex the same thirty-four workflows for preparing and running grounded,
 platform-compliant product launches.
 
 ## Skills TOC
@@ -33,6 +33,7 @@ platform-compliant product launches.
 | `launch-tekpon` | [Tekpon](https://tekpon.com) | Build a buyer-ready software marketplace listing with reviews, deals, score context, and procurement-safe measurement |
 | `launch-appsumo` | [AppSumo](https://appsumo.com) | Evaluate and operate a sustainable curated software-deal partnership, from unit economics to post-deal support |
 | `launch-linkedin-company-page` | [LinkedIn Company Pages](https://www.linkedin.com/company/setup/new/) | Create and govern a complete official Company Page with verified facts, brand assets, and admin controls |
+| `launch-linkedin-product-page` | [LinkedIn Product Pages](https://www.linkedin.com/help/linkedin/answer/a553513) | Create an eligible professional product page with categories, recommendations, lead governance, and accurate product facts |
 | `launch-product-hunt` | [Product Hunt](https://www.producthunt.com) | Prepare the listing, launch plan, outreach, readiness gate, and post-launch follow-up |
 | `launch-hacker-news` | [Hacker News](https://news.ycombinator.com) | Prepare a compliant Show HN post and thread runbook with no vote mobilization |
 | `launch-x` | [X](https://x.com) | Write and run an X launch thread with the product link in a reply |
@@ -68,7 +69,7 @@ not to the marketplace repository.
 
 ## How it works
 
-The twenty-six directory/review, developer-directory, founder-community, editorial-news, deal-partnership, and entity-profile workflows and four platform runners create durable launch packages under
+The twenty-seven directory/review, developer-directory, founder-community, editorial-news, deal-partnership, and entity-profile workflows and four platform runners create durable launch packages under
 `.ulpi/launch/<channel>/`. They compose the bundled copy, outreach, and analytics skills while enforcing
 each platform's mechanics and policy.
 Shared product positioning lives at `.ulpi/launch/positioning.md` so every channel uses the same grounded
@@ -76,7 +77,7 @@ source of truth.
 
 The skills use the [`browse`](https://github.com/ulpi-io/plugin-browse) plugin to inspect live products and
 verify current platform details. G2, G2 Digital Markets, AlternativeTo, Trustpilot, SourceForge, TrustRadius,
-Gartner Peer Insights, PeerSpot, StackShare, SaaSHub, SaaSworthy, Crozdesk, SoftwareWorld, SoftwareSuggest, GoodFirms, Wellfound, Indie Hackers, F6S, BetaList, Slashdot, Clutch, Appvizer, Serchen, Tekpon, AppSumo, and LinkedIn Company Pages require it for top-five benchmarks. If a site blocks normal browser automation, the workflow switches to the bundled
+Gartner Peer Insights, PeerSpot, StackShare, SaaSHub, SaaSworthy, Crozdesk, SoftwareWorld, SoftwareSuggest, GoodFirms, Wellfound, Indie Hackers, F6S, BetaList, Slashdot, Clutch, Appvizer, Serchen, Tekpon, AppSumo, LinkedIn Company Pages, and LinkedIn Product Pages require it for top-five benchmarks. If a site blocks normal browser automation, the workflow switches to the bundled
 `browse-stealth` Camoufox runtime; unresolved IP-reputation blocks remain explicit live-research blockers.
 
 ## Repository layout
