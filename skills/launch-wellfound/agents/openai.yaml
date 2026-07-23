@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Wellfound"
+  short_description: "Build an eligible Wellfound startup employer presence."
+  default_prompt: "Use $launch-wellfound to prepare an accurate Wellfound startup employer and hiring presence."
