@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Peerlist Launchpad"
+  short_description: "Prepare a weekly developer-community project launch."
+  default_prompt: "Use $launch-peerlist-launchpad to prepare my Peerlist weekly launch."
