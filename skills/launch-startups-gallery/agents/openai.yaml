@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Startups.gallery"
+  short_description: "Prepare a human-reviewed, early-stage startup gallery submission."
+  default_prompt: "Use $launch-startups-gallery to prepare my curated startup submission."
