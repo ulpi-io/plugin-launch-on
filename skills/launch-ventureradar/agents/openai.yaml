@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on VentureRadar"
+  short_description: "Build a truthful VentureRadar startup intelligence profile."
+  default_prompt: "Use $launch-ventureradar to prepare my startup database profile."
