@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Microlaunch"
+  short_description: "Prepare a maker launch, feedback runbook, and optional Pro package."
+  default_prompt: "Use $launch-microlaunch to prepare my Microlaunch product launch."
