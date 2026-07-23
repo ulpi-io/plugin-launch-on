@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Maddyness"
+  short_description: "Prepare a governed Maddyness editorial or ecosystem package."
+  default_prompt: "Use $launch-maddyness to prepare my Maddyness editorial, database, FundTruck, or partnership package."
