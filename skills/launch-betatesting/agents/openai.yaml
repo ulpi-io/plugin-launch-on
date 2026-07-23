@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on BetaTesting"
+  short_description: "Plan and run a managed beta testing project."
+  default_prompt: "Use $launch-betatesting to prepare my BetaTesting project."
