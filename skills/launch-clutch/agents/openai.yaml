@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Clutch"
+  short_description: "Build an eligible, evidence-backed Clutch provider profile."
+  default_prompt: "Use $launch-clutch to prepare my B2B service-provider profile and review program."
