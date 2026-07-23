@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on SaaSHub"
+  short_description: "Submit, verify, and grow a SaaSHub product listing."
+  default_prompt: "Use $launch-saashub to prepare a verified SaaSHub listing with five live category benchmarks."
