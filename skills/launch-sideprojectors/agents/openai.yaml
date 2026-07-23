@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on SideProjectors"
+  short_description: "Prepare a showcase-first side-project listing."
+  default_prompt: "Use $launch-sideprojectors to prepare my SideProjectors showcase listing."
