@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on SoftwareWorld"
+  short_description: "List, claim, and optimize a SoftwareWorld profile."
+  default_prompt: "Use $launch-softwareworld to prepare a complete SoftwareWorld software listing using five live peers."
