@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on NextBigWhat"
+  short_description: "Prepare a paid NextBigWhat product-listing package."
+  default_prompt: "Use $launch-nextbigwhat to prepare my NextBigWhat product listing."
