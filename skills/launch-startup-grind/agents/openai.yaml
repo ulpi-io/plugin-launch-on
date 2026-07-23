@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Startup Grind"
+  short_description: "Build a credible Startup Grind community and event launch plan."
+  default_prompt: "Use $launch-startup-grind to prepare my Startup Grind community and event presence."
