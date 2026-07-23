@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on BetaPage / PitchWall"
+  short_description: "Prepare a current PitchWall product listing from the BetaPage route."
+  default_prompt: "Use $launch-betapage to prepare my current PitchWall product listing."
