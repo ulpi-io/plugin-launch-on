@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on F6S"
+  short_description: "Prepare an accurate F6S company presence or eligible opportunity application."
+  default_prompt: "Use $launch-f6s to prepare my startup's F6S company presence or application."

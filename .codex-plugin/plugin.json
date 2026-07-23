@@ -1,7 +1,7 @@
 {
   "name": "launch-on",
   "version": "1.0.0",
-  "description": "Product listing and launch workflows for G2, Capterra, GetApp, Software Advice, AlternativeTo, Trustpilot, SourceForge, TrustRadius, Gartner Peer Insights, PeerSpot, StackShare, SaaSHub, SaaSworthy, Crozdesk, SoftwareWorld, SoftwareSuggest, GoodFirms, Wellfound, Indie Hackers, Product Hunt, Hacker News, X, and LinkedIn, with shared copy, outreach, and analytics skills.",
+  "description": "Product listing and launch workflows for G2, Capterra, GetApp, Software Advice, AlternativeTo, Trustpilot, SourceForge, TrustRadius, Gartner Peer Insights, PeerSpot, StackShare, SaaSHub, SaaSworthy, Crozdesk, SoftwareWorld, SoftwareSuggest, GoodFirms, Wellfound, Indie Hackers, F6S, Product Hunt, Hacker News, X, and LinkedIn, with shared copy, outreach, and analytics skills.",
   "author": {
     "name": "ulpi.io",
     "url": "https://github.com/ulpi-io"
@@ -9,12 +9,12 @@
   "homepage": "https://github.com/ulpi-io/plugin-launch-on",
   "repository": "https://github.com/ulpi-io/plugin-launch-on",
   "license": "MIT",
-  "keywords": ["launch", "g2", "capterra", "alternativeto", "trustpilot", "sourceforge", "trustradius", "gartner-peer-insights", "peerspot", "stackshare", "saashub", "saasworthy", "crozdesk", "softwareworld", "softwaresuggest", "goodfirms", "wellfound", "indie-hackers", "open-source", "product-hunt", "hacker-news", "linkedin", "x", "marketing", "analytics", "claude", "codex"],
+  "keywords": ["launch", "g2", "capterra", "alternativeto", "trustpilot", "sourceforge", "trustradius", "gartner-peer-insights", "peerspot", "stackshare", "saashub", "saasworthy", "crozdesk", "softwareworld", "softwaresuggest", "goodfirms", "wellfound", "indie-hackers", "f6s", "open-source", "product-hunt", "hacker-news", "linkedin", "x", "marketing", "analytics", "claude", "codex"],
   "skills": "./skills/",
   "interface": {
     "displayName": "Launch On",
     "shortDescription": "Launch products across major platforms",
-    "longDescription": "Build buyer-ready listings for G2, Capterra, GetApp, Software Advice, AlternativeTo, Trustpilot, SourceForge, TrustRadius, Gartner Peer Insights, PeerSpot, StackShare, SaaSHub, SaaSworthy, Crozdesk, SoftwareWorld, SoftwareSuggest, GoodFirms, Wellfound, and Indie Hackers, then execute grounded launches on Product Hunt, Hacker News, X, and LinkedIn.",
+    "longDescription": "Build buyer-ready listings for G2, Capterra, GetApp, Software Advice, AlternativeTo, Trustpilot, SourceForge, TrustRadius, Gartner Peer Insights, PeerSpot, StackShare, SaaSHub, SaaSworthy, Crozdesk, SoftwareWorld, SoftwareSuggest, GoodFirms, Wellfound, Indie Hackers, and F6S, then execute grounded launches on Product Hunt, Hacker News, X, and LinkedIn.",
     "developerName": "ulpi.io",
     "category": "Productivity",
     "capabilities": ["Launch Planning", "Marketing"],
