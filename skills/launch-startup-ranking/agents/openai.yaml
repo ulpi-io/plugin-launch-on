@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Startup Ranking"
+  short_description: "Prepare an evidence-backed Startup Ranking profile or correction."
+  default_prompt: "Use $launch-startup-ranking to prepare my Startup Ranking profile."
