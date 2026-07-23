@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Uneed"
+  short_description: "Prepare an Uneed social launch and optional visibility package."
+  default_prompt: "Use $launch-uneed to prepare my Uneed product launch."
