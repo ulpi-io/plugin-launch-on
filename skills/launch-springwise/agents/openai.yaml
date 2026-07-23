@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Springwise"
+  short_description: "Prepare an evidence-led Springwise innovation submission."
+  default_prompt: "Use $launch-springwise to prepare my Springwise innovation submission and impact evidence packet."
