@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on StartupTalky"
+  short_description: "Prepare a source-governed StartupTalky story package."
+  default_prompt: "Use $launch-startuptalky to prepare my StartupTalky company or founder story package."
