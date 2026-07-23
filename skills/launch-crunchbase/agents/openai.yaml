@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Crunchbase"
+  short_description: "Create and maintain a source-governed company profile."
+  default_prompt: "Use $launch-crunchbase to prepare my Crunchbase company profile."
