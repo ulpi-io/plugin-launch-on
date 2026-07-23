@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Startup Savant"
+  short_description: "Prepare an evidence-led Startup Savant editorial pitch."
+  default_prompt: "Use $launch-startup-savant to prepare my Startup Savant editorial pitch."
