@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on BetaBound"
+  short_description: "Recruit beta testers with a reviewed announcement."
+  default_prompt: "Use $launch-betabound to prepare my BetaBound test announcement."
