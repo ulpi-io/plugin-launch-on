@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch a Google Business Profile"
+  short_description: "Create an eligible, verified local Google Business Profile."
+  default_prompt: "Use $launch-google-business-profile to prepare my eligible local business listing."
