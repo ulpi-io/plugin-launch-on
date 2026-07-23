@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Apple Business Connect"
+  short_description: "Create an eligible Apple Business Maps or brand presence."
+  default_prompt: "Use $launch-apple-business-connect to prepare my Apple Business presence."
