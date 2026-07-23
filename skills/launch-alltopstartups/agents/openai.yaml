@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on AllTopStartups"
+  short_description: "Prepare a truthful AllTopStartups listing or editorial pitch."
+  default_prompt: "Use $launch-alltopstartups to prepare my AllTopStartups directory listing and editorial-fit package."
