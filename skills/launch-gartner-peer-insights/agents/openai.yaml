@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Gartner Peer Insights"
+  short_description: "Qualify and launch on Gartner Peer Insights"
+  default_prompt: "Use $launch-gartner-peer-insights to prove market eligibility, benchmark five live products, complete the vendor profile, and build a compliant review program."
