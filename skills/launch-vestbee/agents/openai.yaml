@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Vestbee"
+  short_description: "Prepare a startup profile, one-pager, and investor-ready Vestbee package."
+  default_prompt: "Use $launch-vestbee to prepare my Vestbee startup profile and fundraising package."
