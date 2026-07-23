@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Serchen"
+  short_description: "Build a buyer-ready Serchen software listing."
+  default_prompt: "Use $launch-serchen to prepare my Serchen software listing."
