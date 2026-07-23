@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on The Org"
+  short_description: "Build a truthful, privacy-governed public organization profile."
+  default_prompt: "Use $launch-the-org to prepare my public company and org-chart presence."
