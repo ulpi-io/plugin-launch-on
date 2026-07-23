@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on SelectHub"
+  short_description: "Claim and govern a buyer-facing product profile."
+  default_prompt: "Use $launch-selecthub to prepare my SelectHub product listing claim."
