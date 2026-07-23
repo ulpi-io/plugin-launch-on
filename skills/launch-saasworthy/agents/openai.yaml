@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on SaaSworthy"
+  short_description: "Create, verify, and optimize a SaaSworthy listing."
+  default_prompt: "Use $launch-saasworthy to prepare a complete SaaSworthy listing using five live category peers."
