@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create a launch-on skill"
+  short_description: "Research a platform and ship its custom launch-on skill."
+  default_prompt: "Use $launch-create-skill to research a platform and add its custom launch-on skill."
