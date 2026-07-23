@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on SoftwareSuggest"
+  short_description: "Submit and optimize a SoftwareSuggest software profile."
+  default_prompt: "Use $launch-softwaresuggest to prepare a complete SoftwareSuggest listing using five live category peers."
