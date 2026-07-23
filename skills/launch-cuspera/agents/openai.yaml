@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Cuspera"
+  short_description: "List software and enrich buyer-proof discovery."
+  default_prompt: "Use $launch-cuspera to prepare my Cuspera software listing."
