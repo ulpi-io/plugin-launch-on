@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on SuperLaunch"
+  short_description: "Prepare an AI-product launch with real-review readiness."
+  default_prompt: "Use $launch-superlaunch to prepare my SuperLaunch product listing."
