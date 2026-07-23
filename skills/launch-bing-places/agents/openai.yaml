@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Bing Places"
+  short_description: "Create an eligible, verified Bing Places local business listing."
+  default_prompt: "Use $launch-bing-places to prepare my eligible Bing Places business listing."
