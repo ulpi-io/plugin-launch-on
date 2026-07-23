@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on GoodFirms"
+  short_description: "List a software product or service on GoodFirms."
+  default_prompt: "Use $launch-goodfirms to prepare a GoodFirms software or service listing from five live peers."
