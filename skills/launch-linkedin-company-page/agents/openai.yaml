@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch a LinkedIn Company Page"
+  short_description: "Create and govern a complete official LinkedIn Company Page."
+  default_prompt: "Use $launch-linkedin-company-page to prepare my official LinkedIn Company Page."
