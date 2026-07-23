@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on BetaList"
+  short_description: "Prepare a conversion-ready BetaList early-access listing."
+  default_prompt: "Use $launch-betalist to prepare my BetaList launch and early-access funnel."
