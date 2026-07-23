@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on AppSumo"
+  short_description: "Evaluate and prepare a sustainable AppSumo partner deal."
+  default_prompt: "Use $launch-appsumo to assess and prepare my AppSumo partner deal."
