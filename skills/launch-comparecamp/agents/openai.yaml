@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on CompareCamp"
+  short_description: "Prepare a sourced software review request."
+  default_prompt: "Use $launch-comparecamp to prepare my CompareCamp review request."
