@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on OpenHunts"
+  short_description: "Prepare a weekly OpenHunts launch and optional visibility package."
+  default_prompt: "Use $launch-openhunts to prepare my OpenHunts product launch."
