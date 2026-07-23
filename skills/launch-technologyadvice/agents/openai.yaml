@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on TechnologyAdvice"
+  short_description: "Build a buyer-facing profile and demand program."
+  default_prompt: "Use $launch-technologyadvice to prepare my TechnologyAdvice product listing."
