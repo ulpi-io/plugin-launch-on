@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Launching Next"
+  short_description: "Prepare a constrained startup listing and optional expedited-review path."
+  default_prompt: "Use $launch-launching-next to prepare my Launching Next startup submission."
