@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Fazier"
+  short_description: "Prepare a Fazier launch and optional visibility package."
+  default_prompt: "Use $launch-fazier to prepare my Fazier product launch."
