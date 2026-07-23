@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on FoundrList"
+  short_description: "Prepare a founder-community launch and optional featured placement."
+  default_prompt: "Use $launch-foundrlist to prepare my FoundrList product launch."
