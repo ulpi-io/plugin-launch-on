@@ -9,6 +9,6 @@
   "homepage": "https://github.com/ulpi-io/plugin-launch-on",
   "repository": "https://github.com/ulpi-io/plugin-launch-on",
   "license": "MIT",
-  "keywords": ["launch", "g2", "capterra", "alternativeto", "trustpilot", "sourceforge", "trustradius", "gartner-peer-insights", "peerspot", "indie-hackers", "f6s", "betalist", "slashdot", "clutch", "appvizer", "serchen", "tekpon", "appsumo", "linkedin-company-page", "linkedin-product-page", "google-business-profile", "bing-places", "apple-business-connect", "glassdoor", "comparably", "the-org", "open-source", "product-hunt", "hacker-news", "linkedin", "x", "marketing", "analytics", "claude", "codex"],
+  "keywords": ["launch", "g2", "capterra", "alternativeto", "trustpilot", "sourceforge", "trustradius", "gartner-peer-insights", "peerspot", "indie-hackers", "f6s", "betalist", "slashdot", "clutch", "appvizer", "serchen", "tekpon", "appsumo", "linkedin-company-page", "linkedin-product-page", "google-business-profile", "bing-places", "apple-business-connect", "glassdoor", "comparably", "the-org", "gust", "open-source", "product-hunt", "hacker-news", "linkedin", "x", "marketing", "analytics", "claude", "codex"],
   "skills": "./skills"
 }

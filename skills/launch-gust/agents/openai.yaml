@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Gust"
+  short_description: "Build a truthful Gust Company Profile and fundraising-readiness package."
+  default_prompt: "Use $launch-gust to prepare my Gust Company Profile and fundraising workflow."
