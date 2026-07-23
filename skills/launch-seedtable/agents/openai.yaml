@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Seedtable"
+  short_description: "Prepare an evidence-backed Seedtable company or funding update."
+  default_prompt: "Use $launch-seedtable to prepare my Seedtable company profile or funding update."

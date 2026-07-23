@@ -1,9 +1,9 @@
 # launch-on v1.0.0
 
-`launch-on` gives Claude Code and Codex the same 61 workflows for preparing and running grounded,
+`launch-on` gives Claude Code and Codex the same 62 workflows for preparing and running grounded,
 platform-compliant product launches.
 
-## Skills TOC
+## Dedicated platform launch skills
 
 | Skill | Platform | Purpose |
 |---|---|---|
@@ -41,7 +41,6 @@ platform-compliant product launches.
 | `launch-comparably` | [Comparably](https://www.comparably.com) | Build a truthful employer-brand profile covering culture, candidate experience, independent feedback, and governance |
 | `launch-the-org` | [The Org](https://theorg.com) | Build a truthful, privacy-governed public company and organizational profile |
 | `launch-gust` | [Gust](https://gust.com) | Build a truthful Company Profile for accelerator applications, fundraising readiness, and governed diligence |
-| `launch-create-skill` | launch-on extension workflow | Research a new platform with Browse, create its tailored launch skill, update tracking/TOC, validate, and make a dedicated commit and push |
 | `launch-ventureradar` | [VentureRadar](https://www.ventureradar.com/startups/submit) | Submit, claim, and maintain a truthful investor-facing startup intelligence profile |
 | `launch-dealroom` | [Dealroom](https://dealroom.co) | Submit, claim, and maintain a source-governed startup ecosystem intelligence record |
 | `launch-tracxn` | [Tracxn](https://tracxn.com) | Request a source-governed startup intelligence listing or correction with financial-data boundaries |
@@ -61,10 +60,17 @@ platform-compliant product launches.
 | `launch-silicon-canals` | [Silicon Canals](https://siliconcanals.com) | Prepare a source-led technology, regulation, or innovation editorial story pitch |
 | `launch-maddyness` | [Maddyness](https://www.maddyness.com) | Prepare a governed French-market editorial, database, FundTruck, or partnership package |
 | `launch-vestbee` | [Vestbee](https://vestbee.com) | Prepare a startup profile, fundraising one-pager, investor-introduction, or program-application package |
+| `launch-seedtable` | [Seedtable](https://www.seedtable.com) | Submit or correct a source-governed startup profile, funding update, or company tip |
 | `launch-product-hunt` | [Product Hunt](https://www.producthunt.com) | Prepare the listing, launch plan, outreach, readiness gate, and post-launch follow-up |
 | `launch-hacker-news` | [Hacker News](https://news.ycombinator.com) | Prepare a compliant Show HN post and thread runbook with no vote mobilization |
 | `launch-x` | [X](https://x.com) | Write and run an X launch thread with the product link in a reply |
 | `launch-linkedin` | [LinkedIn](https://www.linkedin.com) | Write and run a LinkedIn launch with the product link in the first comment |
+
+## Shared / workflow skills
+
+| Skill | Platform | Purpose |
+|---|---|---|
+| `launch-create-skill` | launch-on extension workflow | Research a new platform with Browse, create its tailored launch skill, update tracking/TOC, validate, and make a dedicated commit and push |
 | `launch-copy` | Shared workflow | Create grounded launch copy across multiple angles and platform constraints |
 | `launch-outreach` | Shared workflow | Build compliant audience segments, messages, and launch-day outreach plans |
 | `launch-analytics` | Shared workflow | Add consistent UTMs, conversion events, validation, and launch attribution |
@@ -96,7 +102,7 @@ not to the marketplace repository.
 
 ## How it works
 
-The 53 directory/review, developer-directory, founder-community, editorial-news, deal-partnership, entity-profile, local-business, employer-brand, fundraising, and startup-intelligence workflows; 4 platform runners; 3 shared launch workflows; and 1 reusable skill-creation workflow create durable launch packages under
+The 54 directory/review, developer-directory, founder-community, editorial-news, deal-partnership, entity-profile, local-business, employer-brand, fundraising, and startup-intelligence workflows; 4 platform runners; 3 shared launch workflows; and 1 reusable skill-creation workflow create durable launch packages under
 `.ulpi/launch/<channel>/`. They compose the bundled copy, outreach, and analytics skills while enforcing
 each platform's mechanics and policy.
 Shared product positioning lives at `.ulpi/launch/positioning.md` so every channel uses the same grounded
