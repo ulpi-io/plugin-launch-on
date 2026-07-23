@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Silicon Canals"
+  short_description: "Prepare a source-led Silicon Canals editorial story pitch."
+  default_prompt: "Use $launch-silicon-canals to prepare my Silicon Canals editorial story and evidence packet."

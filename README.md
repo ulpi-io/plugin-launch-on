@@ -1,6 +1,6 @@
 # launch-on v1.0.0
 
-`launch-on` gives Claude Code and Codex the same 58 workflows for preparing and running grounded,
+`launch-on` gives Claude Code and Codex the same 59 workflows for preparing and running grounded,
 platform-compliant product launches.
 
 ## Skills TOC
@@ -58,6 +58,7 @@ platform-compliant product launches.
 | `launch-eu-startups` | [EU-Startups](https://www.eu-startups.com) | Prepare a Europe-focused editorial, database, sponsorship, or event opportunity package |
 | `launch-tech-eu` | [Tech.eu](https://tech.eu) | Prepare a source-governed European startup pitch, data, or editorial package |
 | `launch-sifted` | [Sifted](https://sifted.eu) | Prepare a source-led European editorial, intelligence, event, or advertising package |
+| `launch-silicon-canals` | [Silicon Canals](https://siliconcanals.com) | Prepare a source-led technology, regulation, or innovation editorial story pitch |
 | `launch-product-hunt` | [Product Hunt](https://www.producthunt.com) | Prepare the listing, launch plan, outreach, readiness gate, and post-launch follow-up |
 | `launch-hacker-news` | [Hacker News](https://news.ycombinator.com) | Prepare a compliant Show HN post and thread runbook with no vote mobilization |
 | `launch-x` | [X](https://x.com) | Write and run an X launch thread with the product link in a reply |
@@ -93,7 +94,7 @@ not to the marketplace repository.
 
 ## How it works
 
-The 50 directory/review, developer-directory, founder-community, editorial-news, deal-partnership, entity-profile, local-business, employer-brand, fundraising, and startup-intelligence workflows; 4 platform runners; 3 shared launch workflows; and 1 reusable skill-creation workflow create durable launch packages under
+The 51 directory/review, developer-directory, founder-community, editorial-news, deal-partnership, entity-profile, local-business, employer-brand, fundraising, and startup-intelligence workflows; 4 platform runners; 3 shared launch workflows; and 1 reusable skill-creation workflow create durable launch packages under
 `.ulpi/launch/<channel>/`. They compose the bundled copy, outreach, and analytics skills while enforcing
 each platform's mechanics and policy.
 Shared product positioning lives at `.ulpi/launch/positioning.md` so every channel uses the same grounded
