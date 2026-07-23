@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Tech.eu"
+  short_description: "Prepare a source-governed Tech.eu startup or editorial package."
+  default_prompt: "Use $launch-tech-eu to prepare my Tech.eu startup pitch or editorial package."
