@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Comparably"
+  short_description: "Build a truthful Comparably employer-brand presence."
+  default_prompt: "Use $launch-comparably to prepare my Comparably employer profile and governance plan."
