@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on YourStory"
+  short_description: "Prepare a governed YourStory profile, editorial, or PitchFest package."
+  default_prompt: "Use $launch-yourstory to prepare my YourStory company-profile, editorial, or PitchFest package."

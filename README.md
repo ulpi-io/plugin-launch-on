@@ -1,6 +1,6 @@
 # launch-on v1.0.0
 
-`launch-on` gives Claude Code and Codex the same 52 workflows for preparing and running grounded,
+`launch-on` gives Claude Code and Codex the same 53 workflows for preparing and running grounded,
 platform-compliant product launches.
 
 ## Skills TOC
@@ -52,6 +52,7 @@ platform-compliant product launches.
 | `launch-springwise` | [Springwise](https://www.springwise.com) | Prepare an evidence-led innovation-database submission with verified impact and SDG fit |
 | `launch-techpluto` | [TechPluto](https://www.techpluto.com) | Prepare a source-led startup or technology-news editorial pitch |
 | `launch-feedough` | [Feedough](https://www.feedough.com) | Prepare a verified Startup Discovery review submission with commercial-term reconciliation |
+| `launch-yourstory` | [YourStory](https://yourstory.com) | Prepare a governed company-profile, editorial, or PitchFest opportunity package |
 | `launch-product-hunt` | [Product Hunt](https://www.producthunt.com) | Prepare the listing, launch plan, outreach, readiness gate, and post-launch follow-up |
 | `launch-hacker-news` | [Hacker News](https://news.ycombinator.com) | Prepare a compliant Show HN post and thread runbook with no vote mobilization |
 | `launch-x` | [X](https://x.com) | Write and run an X launch thread with the product link in a reply |
@@ -87,7 +88,7 @@ not to the marketplace repository.
 
 ## How it works
 
-The 44 directory/review, developer-directory, founder-community, editorial-news, deal-partnership, entity-profile, local-business, employer-brand, fundraising, and startup-intelligence workflows; 4 platform runners; 3 shared launch workflows; and 1 reusable skill-creation workflow create durable launch packages under
+The 45 directory/review, developer-directory, founder-community, editorial-news, deal-partnership, entity-profile, local-business, employer-brand, fundraising, and startup-intelligence workflows; 4 platform runners; 3 shared launch workflows; and 1 reusable skill-creation workflow create durable launch packages under
 `.ulpi/launch/<channel>/`. They compose the bundled copy, outreach, and analytics skills while enforcing
 each platform's mechanics and policy.
 Shared product positioning lives at `.ulpi/launch/positioning.md` so every channel uses the same grounded
@@ -95,7 +96,7 @@ source of truth.
 
 The skills use the [`browse`](https://github.com/ulpi-io/plugin-browse) plugin to inspect live products and
 verify current platform details. G2, G2 Digital Markets, AlternativeTo, Trustpilot, SourceForge, TrustRadius,
-Gartner Peer Insights, PeerSpot, StackShare, SaaSHub, SaaSworthy, Crozdesk, SoftwareWorld, SoftwareSuggest, GoodFirms, Wellfound, Indie Hackers, F6S, BetaList, Slashdot, Clutch, Appvizer, Serchen, Tekpon, AppSumo, LinkedIn Company Pages, LinkedIn Product Pages, Google Business Profile, Bing Places, Apple Business Connect, Glassdoor, Comparably, The Org, Gust, VentureRadar, Dealroom, Tracxn, StartupBlink, Startup Grind, Startup Savant, AllTopStartups, Springwise, TechPluto, and Feedough require it for top-five benchmarks. `$launch-create-skill` applies the same rule to every new platform skill. If a site blocks normal browser automation, the workflow switches to the bundled
+Gartner Peer Insights, PeerSpot, StackShare, SaaSHub, SaaSworthy, Crozdesk, SoftwareWorld, SoftwareSuggest, GoodFirms, Wellfound, Indie Hackers, F6S, BetaList, Slashdot, Clutch, Appvizer, Serchen, Tekpon, AppSumo, LinkedIn Company Pages, LinkedIn Product Pages, Google Business Profile, Bing Places, Apple Business Connect, Glassdoor, Comparably, The Org, Gust, VentureRadar, Dealroom, Tracxn, StartupBlink, Startup Grind, Startup Savant, AllTopStartups, Springwise, TechPluto, Feedough, and YourStory require it for top-five benchmarks. `$launch-create-skill` applies the same rule to every new platform skill. If a site blocks normal browser automation, the workflow switches to the bundled
 `browse-stealth` Camoufox runtime; unresolved IP-reputation blocks remain explicit live-research blockers.
 
 ## Repository layout
