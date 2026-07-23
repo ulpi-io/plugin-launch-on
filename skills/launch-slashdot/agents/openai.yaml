@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Slashdot"
+  short_description: "Prepare a source-led, editorially credible Slashdot story submission."
+  default_prompt: "Use $launch-slashdot to assess and prepare my newsworthy Slashdot submission."
