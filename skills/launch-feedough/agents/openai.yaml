@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Feedough"
+  short_description: "Prepare a verified Feedough Startup Discovery review submission."
+  default_prompt: "Use $launch-feedough to prepare my Feedough Startup Discovery review submission."
