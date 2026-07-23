@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Crozdesk"
+  short_description: "Submit, claim, and grow a Crozdesk software listing."
+  default_prompt: "Use $launch-crozdesk to prepare a complete Crozdesk listing using five live category peers."
