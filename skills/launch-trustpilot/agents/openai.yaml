@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Trustpilot"
+  short_description: "Build and grow a trusted Trustpilot profile"
+  default_prompt: "Use $launch-trustpilot to claim my profile, benchmark my category, and build a compliant review program."

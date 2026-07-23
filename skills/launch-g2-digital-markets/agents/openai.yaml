@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on G2 Digital Markets"
+  short_description: "List on Capterra, GetApp, and Software Advice"
+  default_prompt: "Use $launch-g2-digital-markets to benchmark my category and prepare the shared Capterra, GetApp, and Software Advice listing."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on G2"
+  short_description: "Build and grow a stellar G2 profile"
+  default_prompt: "Use $launch-g2 to benchmark my category and prepare a high-converting G2 listing."

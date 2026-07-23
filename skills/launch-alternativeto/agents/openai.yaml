@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on AlternativeTo"
+  short_description: "Build and grow an AlternativeTo listing"
+  default_prompt: "Use $launch-alternativeto to research my competitors and prepare a complete AlternativeTo submission."

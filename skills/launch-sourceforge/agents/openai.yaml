@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on SourceForge"
+  short_description: "Build a complete SourceForge software presence"
+  default_prompt: "Use $launch-sourceforge to choose the right SourceForge route, benchmark live listings, and prepare every required field."
