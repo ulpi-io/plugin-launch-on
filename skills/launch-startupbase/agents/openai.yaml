@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on StartupBase"
+  short_description: "Prepare a StartupBase launch and optional Premium or ad package."
+  default_prompt: "Use $launch-startupbase to prepare my StartupBase product launch."
