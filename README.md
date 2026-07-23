@@ -1,6 +1,6 @@
 # launch-on v1.0.0
 
-`launch-on` gives Claude Code and Codex the same 65 workflows for preparing and running grounded,
+`launch-on` gives Claude Code and Codex the same 66 workflows for preparing and running grounded,
 platform-compliant product launches.
 
 ## Dedicated platform launch skills
@@ -64,6 +64,7 @@ platform-compliant product launches.
 | `launch-startups-gallery` | [Startups.gallery](https://startups.gallery) | Prepare a human-reviewed early-stage startup gallery submission |
 | `launch-top-startups` | [Top Startups](https://topstartups.io) | Prepare a paid startup-directory listing and optional jobs package |
 | `launch-foundrlist` | [FoundrList](https://www.foundrlist.com) | Prepare a founder-community product launch, profile, or optional featured-placement package |
+| `launch-startups-fyi` | [Startups.fyi](https://startups.fyi) | Prepare a paid, human-reviewed startup-directory feature |
 | `launch-product-hunt` | [Product Hunt](https://www.producthunt.com) | Prepare the listing, launch plan, outreach, readiness gate, and post-launch follow-up |
 | `launch-hacker-news` | [Hacker News](https://news.ycombinator.com) | Prepare a compliant Show HN post and thread runbook with no vote mobilization |
 | `launch-x` | [X](https://x.com) | Write and run an X launch thread with the product link in a reply |
@@ -105,7 +106,7 @@ not to the marketplace repository.
 
 ## How it works
 
-The 57 directory/review, developer-directory, founder-community, editorial-news, deal-partnership, entity-profile, local-business, employer-brand, fundraising, and startup-intelligence workflows; 4 platform runners; 3 shared launch workflows; and 1 reusable skill-creation workflow create durable launch packages under
+The 58 directory/review, developer-directory, founder-community, editorial-news, deal-partnership, entity-profile, local-business, employer-brand, fundraising, and startup-intelligence workflows; 4 platform runners; 3 shared launch workflows; and 1 reusable skill-creation workflow create durable launch packages under
 `.ulpi/launch/<channel>/`. They compose the bundled copy, outreach, and analytics skills while enforcing
 each platform's mechanics and policy.
 Shared product positioning lives at `.ulpi/launch/positioning.md` so every channel uses the same grounded

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Startups.fyi"
+  short_description: "Prepare a paid, human-reviewed startup-directory feature."
+  default_prompt: "Use $launch-startups-fyi to prepare my Startups.fyi feature listing."
