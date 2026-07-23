@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Dealroom"
+  short_description: "Build a truthful, source-governed Dealroom company record."
+  default_prompt: "Use $launch-dealroom to prepare my Dealroom company profile or correction."
