@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Tracxn"
+  short_description: "Build a truthful, source-governed Tracxn startup intelligence record."
+  default_prompt: "Use $launch-tracxn to prepare my Tracxn startup listing or correction."
