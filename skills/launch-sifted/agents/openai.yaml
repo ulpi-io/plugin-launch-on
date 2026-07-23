@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Sifted"
+  short_description: "Prepare a source-led Sifted editorial or intelligence package."
+  default_prompt: "Use $launch-sifted to prepare my Sifted editorial, data, event, or advertising opportunity package."
