@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Top Startups"
+  short_description: "Prepare a paid Top Startups listing and optional jobs package."
+  default_prompt: "Use $launch-top-startups to prepare my Top Startups listing package."
