@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Brownbook"
+  short_description: "Create and claim a complete business listing."
+  default_prompt: "Use $launch-brownbook to prepare my Brownbook business listing."
