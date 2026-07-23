@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch on Glassdoor"
+  short_description: "Build a truthful Glassdoor employer presence and response operation."
+  default_prompt: "Use $launch-glassdoor to prepare my Glassdoor employer profile and review operations."
