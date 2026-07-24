@@ -5,6 +5,10 @@ description: |
   eligibility, five-peer research, location and sector facts, ranking safeguards, public-source data, and corrections.
 ---
 
+<HUMAN-WRITING-RULES>
+For every user-facing prose artifact produced by this skill, run the full embedded-mode process in `../../references/human-writing.md` before finalizing. Its no-fabrication rule and all 33 pattern checks are mandatory; preserve the intended platform voice and do not alter code, structured data, link targets, quotations, titles, or proper names.
+</HUMAN-WRITING-RULES>
+
 <EXTREMELY-IMPORTANT>
 1. VERIFY THE ACTIVE COMPANY ROUTE. StartupBlink's July 23, 2026 public surface focused on ecosystem rankings,
    country/city maps, a startup database, reports, partners, and promotion products. Do not promise a company listing,

@@ -5,6 +5,10 @@ description: |
   or review package using five live peer benchmarks and current commercial-term capture.
 ---
 
+<HUMAN-WRITING-RULES>
+For every user-facing prose artifact produced by this skill, run the full embedded-mode process in `../../references/human-writing.md` before finalizing. Its no-fabrication rule and all 33 pattern checks are mandatory; preserve the intended platform voice and do not alter code, structured data, link targets, quotations, titles, or proper names.
+</HUMAN-WRITING-RULES>
+
 <EXTREMELY-IMPORTANT>
 1. UNEED IS A SOCIAL LAUNCHPAD WITH DAILY/WEEKLY/MONTHLY/YEARLY RANKS, COMMUNITY POSTS, REVIEWS, BADGES, AND PAID
    VISIBILITY OPTIONS. Never promise rank, badge, review sentiment, link value, traffic, sales, acceptance, or an SEO

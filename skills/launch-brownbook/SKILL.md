@@ -6,6 +6,10 @@ description: |
   Brownbook.
 ---
 
+<HUMAN-WRITING-RULES>
+For every user-facing prose artifact produced by this skill, run the full embedded-mode process in `../../references/human-writing.md` before finalizing. Its no-fabrication rule and all 33 pattern checks are mandatory; preserve the intended platform voice and do not alter code, structured data, link targets, quotations, titles, or proper names.
+</HUMAN-WRITING-RULES>
+
 <EXTREMELY-IMPORTANT>
 1. SEARCH AND CLAIM BEFORE CREATING. Brownbook’s live add-business page explicitly asks whether the business already
    exists. Search the canonical company name, domain, phone, address, and common variants first. If an existing

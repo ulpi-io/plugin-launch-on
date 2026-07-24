@@ -6,6 +6,10 @@ description: |
   operations. Use when a startup wants F6S company discovery or an eligible F6S opportunity.
 ---
 
+<HUMAN-WRITING-RULES>
+For every user-facing prose artifact produced by this skill, run the full embedded-mode process in `../../references/human-writing.md` before finalizing. Its no-fabrication rule and all 33 pattern checks are mandatory; preserve the intended platform voice and do not alter code, structured data, link targets, quotations, titles, or proper names.
+</HUMAN-WRITING-RULES>
+
 <EXTREMELY-IMPORTANT>
 1. VERIFY THE LIVE ROUTE WITH $browse. On July 23, 2026 F6S publicly presented funding/accelerator applications,
    startup software deals, jobs, events, and a company directory; joining/sign-in was required to add or manage a

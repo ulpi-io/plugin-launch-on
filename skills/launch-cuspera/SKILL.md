@@ -5,6 +5,10 @@ description: |
   vendor-form capture, and buyer-discovery governance. Use when managing a Cuspera product listing.
 ---
 
+<HUMAN-WRITING-RULES>
+For every user-facing prose artifact produced by this skill, run the full embedded-mode process in `../../references/human-writing.md` before finalizing. Its no-fabrication rule and all 33 pattern checks are mandatory; preserve the intended platform voice and do not alter code, structured data, link targets, quotations, titles, or proper names.
+</HUMAN-WRITING-RULES>
+
 <EXTREMELY-IMPORTANT>
 1. CUSPERA IS AN AI-ASSISTED SOFTWARE DISCOVERY PLATFORM. It says buyer matching uses reviews, expert content, and
    customer stories. Do not promise inclusion, category placement, AI recommendations, traffic, leads, buyer intent,

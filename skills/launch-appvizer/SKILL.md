@@ -6,6 +6,10 @@ description: |
   Use when a business software vendor wants an accurate Appvizer catalog presence.
 ---
 
+<HUMAN-WRITING-RULES>
+For every user-facing prose artifact produced by this skill, run the full embedded-mode process in `../../references/human-writing.md` before finalizing. Its no-fabrication rule and all 33 pattern checks are mandatory; preserve the intended platform voice and do not alter code, structured data, link targets, quotations, titles, or proper names.
+</HUMAN-WRITING-RULES>
+
 <EXTREMELY-IMPORTANT>
 1. USE $browse FOR LIVE RESEARCH. Appvizer's July 23, 2026 public catalog shows software categories, product cards,
    profiles, screenshots, review counts, feature/category cues, comparisons, and editorial content. Inspect the live

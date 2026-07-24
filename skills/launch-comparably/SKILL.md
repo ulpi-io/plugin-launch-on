@@ -6,6 +6,10 @@ description: |
   and measurement. Use for employer branding, not generic company promotion.
 ---
 
+<HUMAN-WRITING-RULES>
+For every user-facing prose artifact produced by this skill, run the full embedded-mode process in `../../references/human-writing.md` before finalizing. Its no-fabrication rule and all 33 pattern checks are mandatory; preserve the intended platform voice and do not alter code, structured data, link targets, quotations, titles, or proper names.
+</HUMAN-WRITING-RULES>
+
 <EXTREMELY-IMPORTANT>
 1. VERIFY THE LIVE EMPLOYER ROUTE FIRST. On July 23, 2026 the supplied `/for-companies` URL returned a public 400,
    while Comparably navigation still exposed Employer Brand Tools, Recruitment Marketing Tools, culture, salaries, Q&A,

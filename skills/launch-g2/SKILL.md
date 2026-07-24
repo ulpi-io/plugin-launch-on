@@ -10,6 +10,10 @@ description: |
   customer reviews, qualify for G2 reports, or turn G2 into a sustained buyer-trust channel.
 ---
 
+<HUMAN-WRITING-RULES>
+For every user-facing prose artifact produced by this skill, run the full embedded-mode process in `../../references/human-writing.md` before finalizing. Its no-fabrication rule and all 33 pattern checks are mandatory; preserve the intended platform voice and do not alter code, structured data, link targets, quotations, titles, or proper names.
+</HUMAN-WRITING-RULES>
+
 <EXTREMELY-IMPORTANT>
 This skill prepares a G2 listing and growth program. Treat these rules as blocking:
 

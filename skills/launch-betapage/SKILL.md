@@ -5,6 +5,10 @@ description: |
   plan capture, and governed launch, newsletter, social, advertising, or guest-post options.
 ---
 
+<HUMAN-WRITING-RULES>
+For every user-facing prose artifact produced by this skill, run the full embedded-mode process in `../../references/human-writing.md` before finalizing. Its no-fabrication rule and all 33 pattern checks are mandatory; preserve the intended platform voice and do not alter code, structured data, link targets, quotations, titles, or proper names.
+</HUMAN-WRITING-RULES>
+
 <EXTREMELY-IMPORTANT>
 1. BETAPAGE CURRENTLY REDIRECTS TO PITCHWALL. Treat PitchWall—not historical BetaPage instructions—as the authoritative
    live surface. PitchWall is an AI-product directory with permanent product pages, sponsored placements, advertising,

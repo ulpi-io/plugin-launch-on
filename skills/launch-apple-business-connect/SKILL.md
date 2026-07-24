@@ -6,6 +6,10 @@ description: |
   and local discovery measurement. Use for genuine customer-facing businesses or eligible brands.
 ---
 
+<HUMAN-WRITING-RULES>
+For every user-facing prose artifact produced by this skill, run the full embedded-mode process in `../../references/human-writing.md` before finalizing. Its no-fabrication rule and all 33 pattern checks are mandatory; preserve the intended platform voice and do not alter code, structured data, link targets, quotations, titles, or proper names.
+</HUMAN-WRITING-RULES>
+
 <EXTREMELY-IMPORTANT>
 1. VERIFY THE CURRENT APPLE BUSINESS ROUTE. The July 23, 2026 Apple Business surface combines operations and growth,
    including Maps, Brands, Custom Actions, and Insights. Do not assume every business/brand or country is eligible;

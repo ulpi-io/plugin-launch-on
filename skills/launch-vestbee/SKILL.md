@@ -5,6 +5,10 @@ description: |
   package using five live peer benchmarks and current account-gated form capture.
 ---
 
+<HUMAN-WRITING-RULES>
+For every user-facing prose artifact produced by this skill, run the full embedded-mode process in `../../references/human-writing.md` before finalizing. Its no-fabrication rule and all 33 pattern checks are mandatory; preserve the intended platform voice and do not alter code, structured data, link targets, quotations, titles, or proper names.
+</HUMAN-WRITING-RULES>
+
 <EXTREMELY-IMPORTANT>
 1. VESTBEE IS A STARTUP-INVESTOR MATCHMAKING PLATFORM, NOT A GUARANTEED FUNDRAISING OR PRESS CHANNEL. Its public
    startup route currently promotes a startup profile/one-pager, secure sharing and engagement analytics, tailored VC

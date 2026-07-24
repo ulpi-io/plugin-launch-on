@@ -6,6 +6,10 @@ description: |
   company profile, not a LinkedIn post campaign.
 ---
 
+<HUMAN-WRITING-RULES>
+For every user-facing prose artifact produced by this skill, run the full embedded-mode process in `../../references/human-writing.md` before finalizing. Its no-fabrication rule and all 33 pattern checks are mandatory; preserve the intended platform voice and do not alter code, structured data, link targets, quotations, titles, or proper names.
+</HUMAN-WRITING-RULES>
+
 <EXTREMELY-IMPORTANT>
 1. THIS IS NOT $launch-linkedin. That skill launches posts. This skill creates/maintains the official Company Page.
 2. LIVE FORM IS ACCOUNT-GATED. On July 23, 2026, `linkedin.com/company/setup/new/` redirected to LinkedIn sign-in.

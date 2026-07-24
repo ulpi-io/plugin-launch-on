@@ -6,6 +6,10 @@ description: |
   corrections, and investor-facing data governance. Use for intelligence visibility, not fundraising solicitation.
 ---
 
+<HUMAN-WRITING-RULES>
+For every user-facing prose artifact produced by this skill, run the full embedded-mode process in `../../references/human-writing.md` before finalizing. Its no-fabrication rule and all 33 pattern checks are mandatory; preserve the intended platform voice and do not alter code, structured data, link targets, quotations, titles, or proper names.
+</HUMAN-WRITING-RULES>
+
 <EXTREMELY-IMPORTANT>
 1. TRACXN IS PRIVATE-MARKET INTELLIGENCE. Its July 23, 2026 platform exposed List Your Startup and records across
    companies, sectors, funding rounds, acquisitions, investors, financials, and cap tables. Do not promise listing,

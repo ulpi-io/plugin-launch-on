@@ -6,6 +6,10 @@ description: |
   recruiting measurement. Use for employer branding and hiring, not generic company promotion.
 ---
 
+<HUMAN-WRITING-RULES>
+For every user-facing prose artifact produced by this skill, run the full embedded-mode process in `../../references/human-writing.md` before finalizing. Its no-fabrication rule and all 33 pattern checks are mandatory; preserve the intended platform voice and do not alter code, structured data, link targets, quotations, titles, or proper names.
+</HUMAN-WRITING-RULES>
+
 <EXTREMELY-IMPORTANT>
 1. GLASSDOOR IS AN EMPLOYER-REPUTATION AND RECRUITING SURFACE. Its July 23, 2026 employer site focused on authentic
    reviews, company/interview reviews and responses, employer storytelling, analytics, and hiring products. Do not use

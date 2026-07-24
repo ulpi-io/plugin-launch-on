@@ -6,6 +6,10 @@ description: |
   operations. Use for genuinely newsworthy technical releases, research, security, open-source, or industry events.
 ---
 
+<HUMAN-WRITING-RULES>
+For every user-facing prose artifact produced by this skill, run the full embedded-mode process in `../../references/human-writing.md` before finalizing. Its no-fabrication rule and all 33 pattern checks are mandatory; preserve the intended platform voice and do not alter code, structured data, link targets, quotations, titles, or proper names.
+</HUMAN-WRITING-RULES>
+
 <EXTREMELY-IMPORTANT>
 1. SLASHDOT IS EDITORIAL NEWS, NOT A PRODUCT DIRECTORY. The July 23, 2026 live route says it runs on stories users
    suggest and requires login to submit, though posting may remain anonymous after login. A generic product launch is

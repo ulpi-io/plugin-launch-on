@@ -6,6 +6,10 @@ description: |
   measurement. Use for a professional product identity page, not a Company Page or post campaign.
 ---
 
+<HUMAN-WRITING-RULES>
+For every user-facing prose artifact produced by this skill, run the full embedded-mode process in `../../references/human-writing.md` before finalizing. Its no-fabrication rule and all 33 pattern checks are mandatory; preserve the intended platform voice and do not alter code, structured data, link targets, quotations, titles, or proper names.
+</HUMAN-WRITING-RULES>
+
 <EXTREMELY-IMPORTANT>
 1. DISTINCT LINKEDIN SURFACE. LinkedIn's public Products page on July 23, 2026 advertised 30,000 products, categories,
    user endorsements/testimonials, ratings/reviews, leads, and `Publish a product`. It is separate from Company Pages

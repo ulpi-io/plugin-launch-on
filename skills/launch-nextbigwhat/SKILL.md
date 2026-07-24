@@ -5,6 +5,10 @@ description: |
   truthful product essentials, commercial disclosure, approval gates, and referral measurement.
 ---
 
+<HUMAN-WRITING-RULES>
+For every user-facing prose artifact produced by this skill, run the full embedded-mode process in `../../references/human-writing.md` before finalizing. Its no-fabrication rule and all 33 pattern checks are mandatory; preserve the intended platform voice and do not alter code, structured data, link targets, quotations, titles, or proper names.
+</HUMAN-WRITING-RULES>
+
 <EXTREMELY-IMPORTANT>
 1. NEXTBIGWHAT IS A PAID PRODUCT LISTING, NOT EDITORIAL COVERAGE. Its July 23, 2026 route offered one-time Lite and
    Pro packages with stated listing, homepage, newsletter, and direct-link visibility. Never promise an endorsement,

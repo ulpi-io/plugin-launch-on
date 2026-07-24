@@ -6,6 +6,10 @@ description: |
   product coverage.
 ---
 
+<HUMAN-WRITING-RULES>
+For every user-facing prose artifact produced by this skill, run the full embedded-mode process in `../../references/human-writing.md` before finalizing. Its no-fabrication rule and all 33 pattern checks are mandatory; preserve the intended platform voice and do not alter code, structured data, link targets, quotations, titles, or proper names.
+</HUMAN-WRITING-RULES>
+
 <EXTREMELY-IMPORTANT>
 1. COMPARECAMP IS AN EDITORIAL REVIEW AND COMPARISON SITE, NOT A self-service profile creator. Its public home page
    exposes `Request a Review` and publishes reviews covering pricing, pros, cons, and features. Do not promise a

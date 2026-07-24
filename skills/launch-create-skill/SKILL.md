@@ -6,6 +6,10 @@ description: |
   hunt-list status, validation, and one dedicated commit/push. Use when extending launch-on to a new platform.
 ---
 
+<HUMAN-WRITING-RULES>
+For every user-facing prose artifact produced by this skill, run the full embedded-mode process in `../../references/human-writing.md` before finalizing. Its no-fabrication rule and all 33 pattern checks are mandatory; preserve the intended platform voice and do not alter code, structured data, link targets, quotations, titles, or proper names.
+</HUMAN-WRITING-RULES>
+
 <EXTREMELY-IMPORTANT>
 1. ONE PLATFORM, ONE DEDICATED SKILL, ONE DEDICATED COMMIT. Read the exact hunt-list row and current repo state first.
    Do not batch unrelated platforms or mark a row done until the skill, README, manifests, validation, commit, and push

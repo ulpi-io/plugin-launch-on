@@ -5,6 +5,10 @@ description: |
   company/funding facts, current form and price capture, and explicit commercial approval.
 ---
 
+<HUMAN-WRITING-RULES>
+For every user-facing prose artifact produced by this skill, run the full embedded-mode process in `../../references/human-writing.md` before finalizing. Its no-fabrication rule and all 33 pattern checks are mandatory; preserve the intended platform voice and do not alter code, structured data, link targets, quotations, titles, or proper names.
+</HUMAN-WRITING-RULES>
+
 <EXTREMELY-IMPORTANT>
 1. TOP STARTUPS IS A CURATED, INVESTOR-ORIENTED STARTUP DIRECTORY WITH PAID ADDITION OPTIONS. On 2026-07-23 its public
    Airtable form offered `Add startup ($99)` and `Add startup + unlimited jobs ($249)`, requiring work email and startup

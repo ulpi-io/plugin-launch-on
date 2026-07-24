@@ -6,6 +6,10 @@ description: |
   guaranteed listing or backlink.
 ---
 
+<HUMAN-WRITING-RULES>
+For every user-facing prose artifact produced by this skill, run the full embedded-mode process in `../../references/human-writing.md` before finalizing. Its no-fabrication rule and all 33 pattern checks are mandatory; preserve the intended platform voice and do not alter code, structured data, link targets, quotations, titles, or proper names.
+</HUMAN-WRITING-RULES>
+
 <EXTREMELY-IMPORTANT>
 1. TECHPLUTO IS EDITORIAL. Its July 23, 2026 public navigation included Startup, Funding News, Featured Startups,
    interviews, AI, software, technology, and reviews. Do not promise publication, a backlink, a review verdict, a

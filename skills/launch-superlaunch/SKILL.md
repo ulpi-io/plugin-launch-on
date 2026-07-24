@@ -5,6 +5,10 @@ description: |
   form fields, media, founder data, visibility-window choices, and review-community safeguards.
 ---
 
+<HUMAN-WRITING-RULES>
+For every user-facing prose artifact produced by this skill, run the full embedded-mode process in `../../references/human-writing.md` before finalizing. Its no-fabrication rule and all 33 pattern checks are mandatory; preserve the intended platform voice and do not alter code, structured data, link targets, quotations, titles, or proper names.
+</HUMAN-WRITING-RULES>
+
 <EXTREMELY-IMPORTANT>
 1. SUPERLAUNCH IS AN AI PRODUCT DISCOVERY AND REVIEW PLATFORM. Its public site describes launch windows, SuperReviewers,
    community ratings, and permanent pages. Never promise approval, review score, number of reviews, ranking, feedback,

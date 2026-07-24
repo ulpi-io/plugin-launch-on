@@ -6,6 +6,10 @@ description: |
   Use when a founder wants discovery, feedback, or community relationships on Indie Hackers.
 ---
 
+<HUMAN-WRITING-RULES>
+For every user-facing prose artifact produced by this skill, run the full embedded-mode process in `../../references/human-writing.md` before finalizing. Its no-fabrication rule and all 33 pattern checks are mandatory; preserve the intended platform voice and do not alter code, structured data, link targets, quotations, titles, or proper names.
+</HUMAN-WRITING-RULES>
+
 <EXTREMELY-IMPORTANT>
 1. USE $browse FOR LIVE RESEARCH. Inspect the current Products Database, Build Board, product detail pages, and exactly
    five comparable live product pages before writing. If ordinary browsing is challenged, use $browse-stealth and the

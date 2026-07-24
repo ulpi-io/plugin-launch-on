@@ -6,6 +6,10 @@ description: |
   investor-facing accuracy, and measurement. Use for startup database visibility, not fundraising solicitation.
 ---
 
+<HUMAN-WRITING-RULES>
+For every user-facing prose artifact produced by this skill, run the full embedded-mode process in `../../references/human-writing.md` before finalizing. Its no-fabrication rule and all 33 pattern checks are mandatory; preserve the intended platform voice and do not alter code, structured data, link targets, quotations, titles, or proper names.
+</HUMAN-WRITING-RULES>
+
 <EXTREMELY-IMPORTANT>
 1. VENTURERADAR IS A STARTUP INTELLIGENCE DATABASE. The July 23, 2026 public database showed company name, private
    status, founding year, country, website, and substantive company description. Do not treat it as a fundraising

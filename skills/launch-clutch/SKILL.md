@@ -6,6 +6,10 @@ description: |
   and measurement. Use when a company sells B2B services or a genuine service-enabled offering.
 ---
 
+<HUMAN-WRITING-RULES>
+For every user-facing prose artifact produced by this skill, run the full embedded-mode process in `../../references/human-writing.md` before finalizing. Its no-fabrication rule and all 33 pattern checks are mandatory; preserve the intended platform voice and do not alter code, structured data, link targets, quotations, titles, or proper names.
+</HUMAN-WRITING-RULES>
+
 <EXTREMELY-IMPORTANT>
 1. REQUIRE SERVICE-PROVIDER FIT. Clutch's July 23, 2026 marketplace presents B2B business-service categories,
    providers, project matching, portfolios, and verified client reviews. Do not represent a pure self-serve SaaS as a

@@ -6,6 +6,10 @@ description: |
   listing or correcting a product on SelectHub.
 ---
 
+<HUMAN-WRITING-RULES>
+For every user-facing prose artifact produced by this skill, run the full embedded-mode process in `../../references/human-writing.md` before finalizing. Its no-fabrication rule and all 33 pattern checks are mandatory; preserve the intended platform voice and do not alter code, structured data, link targets, quotations, titles, or proper names.
+</HUMAN-WRITING-RULES>
+
 <EXTREMELY-IMPORTANT>
 1. SELECTHUB IS A BUYER-RESEARCH AND SOFTWARE-SELECTION PLATFORM. It says products are analyst-reviewed and routes
    vendors through a claim/verification process. Do not promise a listing, category position, leaderboard, award,

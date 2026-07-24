@@ -6,6 +6,10 @@ description: |
   company record.
 ---
 
+<HUMAN-WRITING-RULES>
+For every user-facing prose artifact produced by this skill, run the full embedded-mode process in `../../references/human-writing.md` before finalizing. Its no-fabrication rule and all 33 pattern checks are mandatory; preserve the intended platform voice and do not alter code, structured data, link targets, quotations, titles, or proper names.
+</HUMAN-WRITING-RULES>
+
 <EXTREMELY-IMPORTANT>
 1. CRUNCHBASE IS A PRIVATE-MARKET INTELLIGENCE DATABASE, NOT A MARKETING PROFILE. Its data can cover organizations,
    people, funding rounds, investors, acquisitions, revenue/growth insights, news, and predictions. Never fabricate,

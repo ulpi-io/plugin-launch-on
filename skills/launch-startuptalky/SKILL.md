@@ -5,6 +5,10 @@ description: |
   benchmarks, the Get Featured route, factual source governance, commercial disclosure, corrections, and measurement.
 ---
 
+<HUMAN-WRITING-RULES>
+For every user-facing prose artifact produced by this skill, run the full embedded-mode process in `../../references/human-writing.md` before finalizing. Its no-fabrication rule and all 33 pattern checks are mandatory; preserve the intended platform voice and do not alter code, structured data, link targets, quotations, titles, or proper names.
+</HUMAN-WRITING-RULES>
+
 <EXTREMELY-IMPORTANT>
 1. STARTUPTALKY IS A BUSINESS MEDIA PUBLICATION. Its July 23, 2026 surface includes news, company success stories and
    business models, founder/interview content, sector coverage, Get Featured, PR/link-building services, and published

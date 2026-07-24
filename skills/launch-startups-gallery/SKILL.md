@@ -5,6 +5,10 @@ description: |
   truthful startup-stage metadata, and a no-automation approval gate.
 ---
 
+<HUMAN-WRITING-RULES>
+For every user-facing prose artifact produced by this skill, run the full embedded-mode process in `../../references/human-writing.md` before finalizing. Its no-fabrication rule and all 33 pattern checks are mandatory; preserve the intended platform voice and do not alter code, structured data, link targets, quotations, titles, or proper names.
+</HUMAN-WRITING-RULES>
+
 <EXTREMELY-IMPORTANT>
 1. STARTUPS.GALLERY IS A HUMAN-CURATED EARLY-STAGE STARTUP DIRECTORY. Its public submission form says every
    submission is reviewed and warns that automated submissions will probably not be reviewed. Do not promise

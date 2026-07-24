@@ -6,6 +6,10 @@ description: |
   participation. Use for founder trust, feedback, and community relationships—not promotional distribution.
 ---
 
+<HUMAN-WRITING-RULES>
+For every user-facing prose artifact produced by this skill, run the full embedded-mode process in `../../references/human-writing.md` before finalizing. Its no-fabrication rule and all 33 pattern checks are mandatory; preserve the intended platform voice and do not alter code, structured data, link targets, quotations, titles, or proper names.
+</HUMAN-WRITING-RULES>
+
 <EXTREMELY-IMPORTANT>
 1. STARTUP GRIND IS A FOUNDER COMMUNITY AND EVENT NETWORK. The July 23, 2026 surface exposed Submit your Startup,
    local events, founder discussions, membership, pitch/feedback sessions, exhibiting, and partnerships. Do not assume

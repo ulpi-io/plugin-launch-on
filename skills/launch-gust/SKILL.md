@@ -7,6 +7,10 @@ description: |
   capital or applying to an eligible program.
 ---
 
+<HUMAN-WRITING-RULES>
+For every user-facing prose artifact produced by this skill, run the full embedded-mode process in `../../references/human-writing.md` before finalizing. Its no-fabrication rule and all 33 pattern checks are mandatory; preserve the intended platform voice and do not alter code, structured data, link targets, quotations, titles, or proper names.
+</HUMAN-WRITING-RULES>
+
 <EXTREMELY-IMPORTANT>
 1. GUST IS FUNDRAISING AND VENTURE OPERATIONS, NOT A GENERAL DIRECTORY. The July 23, 2026 site describes a Gust
    Company Profile used for accelerators, investor/VC matching, applications, diligence, cap tables, and fundraising.
